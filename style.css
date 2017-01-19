@@ -1,0 +1,23 @@
+.logo {
+  display: block;
+  margin: auto;
+  width: 250px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.teamname {
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+}
+
+.schtable {
+  text-align: left;
+  margin-left: 50px;
+  width: 85%;
+}
+
+h2 {
+  text-align: center;
+}
